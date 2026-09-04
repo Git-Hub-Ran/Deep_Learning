@@ -1,4 +1,4 @@
-# Digit Recognizer — CNN in PyTorch
+# Digit Recognizer - CNN in PyTorch
 
 A convolutional neural network that classifies handwritten digits from the
 Kaggle [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/data)
